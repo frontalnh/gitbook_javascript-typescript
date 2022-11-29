@@ -8,20 +8,3 @@ ESLint와 다른점이라면 ESLint는 문법 에러를 잡아내고, 특정 문
 
 
 
-{% code title=".prettierrc" %}
-```json
-{
-  "singleAttributePerLine": false,
-  "printWidth": 120,
-  "tabWidth": 2,
-  "jsxBracketSameLine": true,
-  "singleQuote": true,
-  "trailingComma": "all",
-  "semi": true,
-  "useTabs": false,
-  "bracketSpacing": true,
-  "jsxSingleQuote": true
-}
-```
-{% endcode %}
-
