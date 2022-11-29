@@ -16,12 +16,12 @@ yarn add --dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 {% code title=".eslintrc" %}
 ```json
 {
-    "parser": "@typescript-eslint",
-    "extends": [
-        "eslint:recommended",
-        "plugin:prettier/recommended",
-        "plugin:@typescript-eslint/recommended"
-    ],
+  "parser": "@typescript-eslint",
+  "extends": [
+		"eslint:recommended", 
+		"plugin:prettier/recommended", 
+		"plugin:@typescript-eslint/recommended"],
+
   "rules": {
 		"prettier/prettier": "error",
     "@typescript-eslint/ban-ts-comment": "warn",
