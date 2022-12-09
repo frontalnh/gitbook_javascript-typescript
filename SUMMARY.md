@@ -9,3 +9,4 @@
     * [VSCode 설정하기](undefined/with-vscode/vscode.md)
     * [Prettier 설정하기](undefined/with-vscode/prettier.md)
     * [ESLint 설정하기](undefined/with-vscode/eslint.md)
+* [Sequelize](sequelize.md)
